@@ -2,7 +2,7 @@
 **Authors:** [DaeHyun Hwang] 
 
 <img src="https://user-images.githubusercontent.com/16742591/64946353-a4f56c00-d8ad-11e9-9c11-e1d925315c36.png" 
-alt="SLAM" width="480" height="360" border="10" /></a>
+alt="SLAM" width="424" height="398" border="10" /></a>
 
 <img src="https://drive.google.com/open?id=1VzPEdaOtcZIJDmTVF00G__PJHfTWhBun" 
 alt="SLAM" width="480" height="360" border="10" /></a>
