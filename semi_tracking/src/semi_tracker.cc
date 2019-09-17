@@ -237,7 +237,6 @@ double Distance(const Vec3 &pt1, const Vec3 &pt2)
   return Distance(pt1(0), pt1(1), pt2(0), pt2(1));
 }
 
-//KLT Tracking using Intrinsic and Extrinsic Camera Parameters in consideration of Uncertainty (VISAPP '')
 bool EdgeTracker::KLTTrackFeaturesUsingExtrinsic(const ImagePyramid &prev, const ImagePyramid &cur,
                                     const ArrayF &gaussian_kernel, const int num_loop,
                                     vector<Edgel> *feats, const Mat3 &fMat)
